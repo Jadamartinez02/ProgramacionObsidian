@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "7900e1c19db4c0b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8aef274e6988d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c9932480860b5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitácora de trabajo/2025-12-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-22"
+            }
+          },
+          {
+            "id": "bd501a795d5c26a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java moderno J-8 a J25/Programacion imperativa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programacion imperativa"
+            }
+          },
+          {
+            "id": "2cc3e6a2d1d3f53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BACKEND I/JAVA-ENTRENAMIENTO/Temario entrenamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temario entrenamiento"
+            }
+          },
+          {
+            "id": "525c22838c1a7ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BACKEND I/JAVA-ENTRENAMIENTO/Questions Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions Java"
+            }
+          },
+          {
+            "id": "b0e26bc70c2e958f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BACKEND I/Tutorias Java/Pre-curso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pre-curso"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "745da13d8dbccc75",
+    "type": "split",
+    "children": [
+      {
+        "id": "d75c683db06f4109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda05b5aefd6e9ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "66304e9a4329b8f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "9bbbd71b5cb615c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9abaca44059e066c",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d74e43aa896bd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d7b8d4ee5ccb73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BACKEND I/JAVA-ENTRENAMIENTO/Clase 6 Interfaces,  Solid, abstract Class.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Clase 6 Interfaces,  Solid, abstract Class"
+            }
+          },
+          {
+            "id": "37256e0ca70f96f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "ef20f2b2af7263cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7828cb7befea202",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "2cc3e6a2d1d3f53c",
+  "lastOpenFiles": [
+    "README.md",
+    "Java moderno J-8 a J25/Programacion imperativa.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Questions Java.md",
+    "Bitácora de trabajo/2025-12-22.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 6 Interfaces,  Solid, abstract Class.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/JAVA-ENTRENAMIENTO.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Temario entrenamiento.md",
+    "Java moderno J-8 a J25/Programacion declarativa.md",
+    "Java moderno J-8 a J25/Introduccion.md",
+    "Bitácora de trabajo/2025-12-19.md",
+    "Plantilla/PlantillaDeLaBitacora.md",
+    "Bitácora de trabajo/2025-12-18.md",
+    "BACKEND I/POO/POO.md",
+    "BACKEND I/Tutorias Java/Pre-curso.md",
+    "BACKEND I/API´S/API´S.md",
+    "Media",
+    "BACKEND I/Tutorias Java/Glosario.md",
+    "Media/Diagram.svg",
+    "Daily Jose.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 5.md",
+    "Bitácora de trabajo",
+    "Sin título.md",
+    "Java moderno J-8 a J25/Lambda.md",
+    "Plantilla",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 8 Patrones de diseño.md",
+    "Media/Pasted image 20251216173014.png",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 1, INTRODUCCION.md",
+    "Java moderno J-8 a J25",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 4.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/CLASE 3.md",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 2.md",
+    "BACKEND I/SOLID.md",
+    "Media/Diagram.svg.xml",
+    "Sin título 1.base",
+    "Sin título.base",
+    "Mentorias-Jose",
+    "Tutorias Java/Glosario",
+    "BACKEND I/Tutorias Java",
+    "fullstack-roadmap/dia-9-checkpoint/media/twitter-logo.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/logo.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/list-icon.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/grid-icon.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/folder-error.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/camera.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/camera-slash.svg",
+    "fullstack-roadmap/dia-9-checkpoint/media/article-two-image.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

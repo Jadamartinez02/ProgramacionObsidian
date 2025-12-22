@@ -1,0 +1,6 @@
+- Arquitectura MVC
+
+MODELO 
+VISTA
+CONTROLADOR
+
