@@ -1,0 +1,1 @@
+Las interfaces funcionales son interfaces que solo tienen un metodo abstracto. Estas se pueden ver con la anotacion @Funtionalinterface

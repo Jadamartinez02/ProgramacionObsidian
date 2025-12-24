@@ -97,7 +97,7 @@ Respuesta: La herencia múltiple ocurre cuando una clase tiene más de una clase
 ¿Por qué Java no permite esto? Supongamos que dos clases padre tienen un método llamado hello() con la misma firma y una clase hija extiende estas dos clases. Si se llama a este método hello(), que es el mismo en ambas clases padre, ¿qué método de la clase padre se ejecutará? Esto genera una situación ambigua, también conocida como el Problema del Diamante.
 Se obtendrá un error de compilación si se intenta extender más de una clase.
 
-# Pregunta 10: ¿Cuáles son las reglas para la sobrecarga y la anulación de métodos?
+# Pregunta 10: ¿Cuáles son las reglas para la sobrecarga y la sobre escritura de métodos?
 Respuesta: Reglas de sobrecarga de métodos: Dos métodos pueden considerarse sobrecargados si cumplen las siguientes reglas:
 
 - Ambos tienen el mismo nombre de método
@@ -113,7 +113,7 @@ Reglas de anulación de métodos: El método de anulación de la clase hija debe
 - No debe lanzar excepciones marcadas más amplias
 - No debe tener un modificador de acceso más restrictivo (si el método padre es público, el método hijo no puede ser privado/protegido)
 
-# Pregunta 11: ¿Podemos sobrescribir los métodos finales?
+# Pregunta 11: ¿Podemos sobrescribir los métodos finales? 
 Respuesta: No, los métodos finales no se pueden sobrescribir.
 
 # Pregunta 12: ¿Se pueden sobrescribir los constructores y los métodos privados?
@@ -126,3 +126,18 @@ Si se usa final con un método, no se puede sobrescribir en la subclase.
 Si se usa final con una clase, esta no se puede extender.
 Si se usa final con un tipo de objeto, no se puede volver a referenciar a ese objeto.
 
+# Pregunta 14: ¿Qué es una excepción y el manejo de excepciones?
+
+Respuesta: Una excepción es un evento que interrumpe el flujo normal del programa. Es un objeto que se lanza en tiempo de ejecución, por lo que el manejo de excepciones es un mecanismo mediante el cual se mantiene el flujo normal del programa.
+
+# Pregunta 15: Diferencia entre error y excepción. 
+Respuesta: Error: Los errores en un programa son irrecuperables; indican que algo grave ha fallado en la aplicación y el programa se termina si ocurre un error, por ejemplo, quedarse sin memoria (OutOfMemoryError), realizar demasiadas llamadas recursivas (StackOverflowError), etc.
+Excepción: Las excepciones, por otro lado, son algo que podemos recuperar gestionándolas adecuadamente, por ejemplo:
+Intentar acceder a una propiedad o método desde un objeto nulo:
+
+NullPointerException; dividir un entero entre cero:
+ArithmeticException; etc.
+
+# Pregunta 16: ¿Cuáles son los diferentes tipos de excepciones?
+Respuesta: Hay dos tipos de excepciones:
+- Excepciones comprobadas: Todas las excepciones, excepto RuntimeException y Error, se conocen como excepciones comprobadas. Estas excepciones son comprobadas por el compilador durante la compilación. Por ejemplo, al intentar leer un archivo, el compilador nos obliga a gestionar la excepción FileNotFoundException porque es posible que el archivo no esté presente. Otras excepciones comprobadas son SQLException, IOException, etc.
