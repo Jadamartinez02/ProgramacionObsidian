@@ -1,8 +1,6 @@
-# 📅 Work Log: 2025-12-24
+# 🗓️ Work Log: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE 
 **Mood / Energy Level:** ## 🎯 Daily Objectives
-- [x] Feedback - interview Java Training
-- [x] Review Udemy course Java
-- [x] Move forward whit Luisa´s challenge 
+- [ ] 
 
 ## 🛠️ Activity Log
 > [!info] Chronological Log

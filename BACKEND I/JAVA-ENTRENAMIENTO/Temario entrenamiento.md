@@ -21,6 +21,8 @@ En la agregacion es una relacion mas fuerte que la asociacion, donde el todo tie
 ### Composicion 
 La composicion es una relacion mas fuerte que la agregacion, donde el todo tiene referencias de las partes, y controla la exitencia de las partes. Las partes no pueden vivir sin el todo.
 
+---
+
 * Diferencia entre una clase y un objeto
 	* Una clase es un molde, un objeto es el uso o instancia de ese molde 
 * Para que se usa la herencia y cuando se usa  es-un

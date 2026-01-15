@@ -8,7 +8,89 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c9932480860b5c6",
+            "id": "5399a6e90b8fff3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BACKEND I/Challenge Luisa/Data Base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Base"
+            }
+          },
+          {
+            "id": "0d2df0938f8d1612",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Diagram.svg"
+              },
+              "icon": "lucide-image",
+              "title": "Diagram"
+            }
+          },
+          {
+            "id": "96852536bde57900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java moderno J-8 a J25/Lambda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lambda"
+            }
+          },
+          {
+            "id": "34ca1ac5f9a4ad13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BACKEND I/Challenge Luisa/Data Base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Base"
+            }
+          },
+          {
+            "id": "58d812c34e9c3092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitácora de trabajo/2025-12-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-30"
+            }
+          },
+          {
+            "id": "d34e3bd4b8b20354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitácora de trabajo/2025-12-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-26"
+            }
+          },
+          {
+            "id": "df333b5b01878881",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +104,34 @@
             }
           },
           {
-            "id": "5399a6e90b8fff3f",
+            "id": "307abd60a83b7b0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java moderno J-8 a J25/Consumer Funtional Interface.md",
+                "file": "Bitácora de trabajo/2025-12-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consumer Funtional Interface"
+              "title": "2025-12-29"
             }
           },
           {
-            "id": "4c2326e80568fad2",
+            "id": "d06fb13c2319f6ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitácora de trabajo/2025-12-23.md",
+                "file": "Bitácora de trabajo/2025-12-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23"
+              "title": "2025-12-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,17 +204,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BACKEND I/JAVA-ENTRENAMIENTO/Clase 6 Interfaces,  Solid, abstract Class.md",
+                "file": "Bitácora de trabajo/2025-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Clase 6 Interfaces,  Solid, abstract Class"
+              "title": "Enlaces entrantes de 2025-12-26"
             }
           },
           {
@@ -184,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,11 +281,22 @@
   },
   "active": "5399a6e90b8fff3f",
   "lastOpenFiles": [
-    "Java moderno J-8 a J25/Funtional Interface.md",
-    "Java moderno J-8 a J25/Consumer Funtional Interface.md",
-    "Java moderno J-8 a J25/Lambda.md",
+    "Diagram.svg",
+    "BACKEND I/Challenge Luisa/Data Base.md",
+    "Bitácora de trabajo/2025-12-30.md",
+    "Bitácora de trabajo/2025-12-26.md",
     "Bitácora de trabajo/2025-12-24.md",
+    "Bitácora de trabajo/2025-12-29.md",
+    "BACKEND I/Challenge Luisa/Challenge.md",
+    "BACKEND I/Challenge Luisa/implemtnacionMysql.md",
+    "Media/Pasted image 20251216173014.png",
+    "Media/Diagram.svg",
+    "Diagram.svg.xml",
+    "BACKEND I/JAVA-ENTRENAMIENTO/Clase 5.md",
+    "Java moderno J-8 a J25/Lambda.md",
     "Bitácora de trabajo/2025-12-23.md",
+    "Java moderno J-8 a J25/Consumer Funtional Interface.md",
+    "Java moderno J-8 a J25/Funtional Interface.md",
     "BACKEND I/JAVA-ENTRENAMIENTO/Questions Java.md",
     "BACKEND I/Tutorias Java/Pre-curso.md",
     "Daily Jose.md",
@@ -217,27 +309,16 @@
     "Bitácora de trabajo/2025-12-22.md",
     "Plantilla/PlantillaDeLaBitacora.md",
     "BACKEND I/JAVA-ENTRENAMIENTO/JAVA-ENTRENAMIENTO.md",
-    "BACKEND I/Challenge Luisa/Challenge.md",
     "BACKEND I/API´S/API´S.md",
     "BACKEND I/Challenge Luisa",
-    "BACKEND I/API´S/sad.md",
-    "Bitácora de trabajo/2025-12-19.md",
-    "README.md",
-    "Java moderno J-8 a J25/Programacion declarativa.md",
-    "Java moderno J-8 a J25/Introduccion.md",
-    "Bitácora de trabajo/2025-12-18.md",
-    "BACKEND I/POO/POO.md",
     "Media",
-    "Media/Diagram.svg",
     "Bitácora de trabajo",
     "Plantilla",
-    "Media/Pasted image 20251216173014.png",
     "Java moderno J-8 a J25",
     "Media/Diagram.svg.xml",
     "Sin título 1.base",
     "Sin título.base",
     "Mentorias-Jose",
-    "Tutorias Java/Glosario",
     "fullstack-roadmap/dia-9-checkpoint/media/twitter-logo.svg",
     "fullstack-roadmap/dia-9-checkpoint/media/logo.svg",
     "fullstack-roadmap/dia-9-checkpoint/media/list-icon.svg",
@@ -245,7 +326,6 @@
     "fullstack-roadmap/dia-9-checkpoint/media/folder-error.svg",
     "fullstack-roadmap/dia-9-checkpoint/media/camera.svg",
     "fullstack-roadmap/dia-9-checkpoint/media/camera-slash.svg",
-    "fullstack-roadmap/dia-9-checkpoint/media/article-two-image.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
