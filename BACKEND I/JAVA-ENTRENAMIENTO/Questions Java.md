@@ -141,3 +141,36 @@ ArithmeticException; etc.
 # Pregunta 16: ¿Cuáles son los diferentes tipos de excepciones?
 Respuesta: Hay dos tipos de excepciones:
 - Excepciones comprobadas: Todas las excepciones, excepto RuntimeException y Error, se conocen como excepciones comprobadas. Estas excepciones son comprobadas por el compilador durante la compilación. Por ejemplo, al intentar leer un archivo, el compilador nos obliga a gestionar la excepción FileNotFoundException porque es posible que el archivo no esté presente. Otras excepciones comprobadas son SQLException, IOException, etc.
+- Excepciones no comprobadas: Las excepciones en tiempo de ejecución se conocen como excepciones no comprobadas. El compilador no nos obliga a gestionar estas excepciones, pero como programadores, es nuestra responsabilidad gestionar las excepciones en tiempo de ejecución, como NullPointerException, ArithmeticException, ArrayIndexOutOfBoundException, etc.
+
+# Pregunta 17: ¿Cómo se manejan las excepciones en Java?
+
+Respuesta: El bloque try-catch se utiliza para la gestión de excepciones. Si cree que ciertas sentencias pueden generar una excepción, rodéelas con el bloque try.
+Un bloque try siempre va seguido de un bloque catch, finalmente, o ambos.
+No se puede usar el bloque try solo:
+
+# Pregunta 18: ¿Podemos escribir un bloque try sin un bloque catch?
+
+Respuesta: Sí, podemos escribir un bloque try con finally, pero no podemos escribir un bloque try solo.
+
+# Pregunta 19: ¿Cómo gestionar múltiples excepciones juntas?
+Respuesta: Puede escribir varios bloques catch uno tras otro para cada excepción o escribir un solo bloque catch usando una barra vertical (|) para separar las excepciones.
+Al escribir varios bloques catch, debe seguir la siguiente regla:
+
+Manejar la excepción más específica y luego pasar a las más genéricas. Esto significa que no puede manejar la excepción (clase base de la excepción) antes de FileNotFoundException.
+Suppose, your method is throwing more than one exception
+and you want to perform some specific action based on the
+exception thrown, you should use multiple catch blocks in
+this case.
+
+Example using multiple catch blocks:
+
+![alt text](image.png)
+
+Al utilizar el símbolo de barra vertical (|):
+![alt text](image-1.png)
+
+# QPregunta 20: ¿Cuándo no se ejecuta el bloque "finally"? Respuesta:
+
+- Cuando se llama a System.exit()
+- cuando la JVM falla
