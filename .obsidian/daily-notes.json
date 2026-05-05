@@ -1,5 +1,4 @@
 {
   "template": "Plantilla/PlantillaDeLaBitacora",
-  "folder": "Bitácora de trabajo",
-  "autorun": true
+  "folder": "Bitácora de trabajo"
 }
